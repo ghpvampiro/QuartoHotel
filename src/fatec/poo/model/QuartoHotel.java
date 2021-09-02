@@ -44,9 +44,13 @@ public class QuartoHotel {
      d = lib * valorDiaria;
      
      totalFaturado += d;
-    
+     situacao = false;
     
     return d; //remover depois
+    }
+
+    public int getNumRG() {
+        return numRG;
     }
             
     
