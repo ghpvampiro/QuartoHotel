@@ -22,7 +22,7 @@ public class QuartoHotel {
         this.valorDiaria = valorDiaria;
     }
 
-    public boolean isSituacao() {
+    public boolean getSituacao() {
         return situacao;
     }
 
