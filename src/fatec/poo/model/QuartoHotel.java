@@ -46,7 +46,7 @@ public class QuartoHotel {
      totalFaturado += d;
      situacao = false;
     
-    return d; //remover depois
+    return d; 
     }
 
     public int getNumRG() {
