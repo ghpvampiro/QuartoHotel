@@ -36,7 +36,7 @@ public class Aplic {
             System.out.println("************************");
             System.out.println("*****QUARTO HOTEL*****");
             System.out.println("************************");
-            System.out.println("\n\n");
+            System.out.println("");
         
             System.out.println("1 - Consultar Quarto");
             System.out.println("2 - Reservar Quarto");
